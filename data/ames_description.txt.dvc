@@ -1,0 +1,5 @@
+outs:
+- md5: 382abd27ba3af7b832960e0a2928dc47
+  size: 50981
+  hash: md5
+  path: ames_description.txt
